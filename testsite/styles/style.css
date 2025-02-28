@@ -1,0 +1,50 @@
+html {
+    font-size: 14px;
+        font-family: "Roboto", serif;
+        font-optical-sizing: auto; /* This is a Comment in css*/
+        /* use command + '/ */
+    
+
+}
+
+h1 {
+    margin: 0;
+    color: #122959;
+    padding: 20px 20px;
+    text-shadow: 3px 3px 1px rgb(211, 211, 143);
+    font-size: 32px;
+    text-align: center;
+}
+
+p,
+li {
+    font-size: 14px;
+    line-height: 1.3;
+    letter-spacing: 1px;
+}
+
+html{
+    background-color: #c98f8f;
+}
+
+body {
+    width: 600px;
+    margin: 0 auto;
+    background-color: #a79cca;
+    padding: 10 20px 20px 20px;
+    border: 5px solid rgb(255, 255, 255);
+}
+
+img{
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+
+}
+
+a:hover{
+    font-size: 19px;
+    color: crimson;
+    border: 5px solid rgb(255, 255, 255);
+
+}
