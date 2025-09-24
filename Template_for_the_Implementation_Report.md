@@ -58,7 +58,7 @@ For each student, this section should provide a detailed day-by-day timeline of 
     * Extended the test suite for both the `Machine` and `MachineController` classes.
     * Collaborated with teammates to fix bugs identified during testing in both the `MachineController` and `EnvironmentController`.
     * Corrected the logging order for cloud movement and dissipation within the `EnvironmentController`.
-    * Achieved a final line coverage of **80%** and branch coverage of **50%** for the `MachineController`, along with **90%** line coverage and **60%** branch coverage for the `Machine` classes.
+    * Achieved a final line coverage of **87%** and branch coverage of **58%** for the `MachineController`, along with **100%** line coverage and **100%** branch coverage for the `Machine` classes.
 
 * **Day 6: September 25, 2025**
     * _To be completed_
@@ -92,3 +92,4 @@ Nabin used the following tools in the implementation phase:
 
 
 We are aware of the potential dangers of using these tools and take full responsibility for any code, documents and other content produced during the group phase.
+
