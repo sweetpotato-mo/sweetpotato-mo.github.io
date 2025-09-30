@@ -237,3 +237,4 @@ Used Github Copilot (GPT-4.1) for very small inline code completions to improve 
 - fixing annoying detekt issues.
 
 We are aware of the potential dangers of using these tools and take full responsibility for any code, documents and other content produced during the group phase.
+
