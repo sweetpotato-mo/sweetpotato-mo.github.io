@@ -115,34 +115,37 @@ For each student, this section should provide a detailed day-by-day timeline of 
     * Developed additional integration tests to verify the interaction between the `Machine` and `MachineController`.
     * Began writing system tests for the `MachineController` after gaining a foundational understanding of system testing methodologies.
     * Wrote system tests for `Machine` class's Irrigation functions and successfully found multiple bugs related to sowing and irrigating.
-    * Fixed or helped to fix the identified bugs.
+    * Fixed or helped to fix the identified bugs.
+ 
 
 - **Day 7: September 26, 2025**(and over the weekend)
     * Fixed the checkForSimiarActions() return order.
-    * Fixed the bug concerning cloud placement on a village tile.
-    * Fixed a critical bug that incorrectly allowed sowing and irrigation to occur on the same tick.
-    * Fixed an infinite loop bug that occurred when the sowing plan consisted of only unreachable tiles.
-    * Fixed the action continuation bug within checkForSimilarActions().
-    * Wrote system tests for sowing and irrigation, specifically focusing on action sequencing and **reducing** the number of **timeouts** to just 1.
-    * Found my first **mutant**: Overtime.
+    * Fixed the bug concerning cloud placement on a village tile.
+    * Fixed a critical bug that incorrectly allowed sowing and irrigation to occur on the same tick.
+    * Fixed an infinite loop bug that occurred when the sowing plan consisted of only unreachable tiles.
+    * Fixed the action continuation bug within checkForSimilarActions().
+    * Wrote system tests for sowing and irrigation, specifically focusing on action sequencing and **reducing** the number of **timeouts** to just 1.
+    * Found my first **mutant**: Overtime.
 
 - **Day 8: September 29, 2025**
-    * Changed failing tests to validate the hypothesis that no two actions should happen on a single tile in a single tick.
-    * Fixed existing tests that were failing due to extra, incorrect assumptions and assertions.
-    * Wrote robust irrigation tests that passed against the reference implementation and subsequently fixed the related bug.
-    * Found four new **mutants**: JesusTakesTheWheel, MatlabArrays, SwissArmyKnife, and Grindset.
+    * Changed failing tests to validate the hypothesis that no two actions should happen on a single tile in a single tick.
+    * Fixed existing tests that were failing due to extra, incorrect assumptions and assertions.
+    * Wrote robust irrigation tests that passed against the reference implementation and subsequently fixed the related bug.
+    * Found four new **mutants**: JesusTakesTheWheel, MatlabArrays, SwissArmyKnife, and Grindset. 
 
 - **Day 9: September 30, 2025**
-    * Created a comprehensive big cloud simulation test to stress-test the system and uncover remaining environment interaction bugs.
-    * Performed minor bug fixes in both the Machine and EnvironmentController based on simulation results.
-    * Found one new **mutant**: Floodgates.
+    * Created a comprehensive big cloud simulation test to stress-test the system and uncover remaining environment interaction bugs.
+    * Performed minor bug fixes in both the Machine and EnvironmentController based on simulation results.
+    * Found one new **mutant**: Floodgates.
 
 - **Day 10: October 1, 2025**
-    *   
-    *
+     * a
+     * 
+    
 
 - **Day 9: October 2, 2025**
-    *   
+   * Cb
+   * 
 
 
 
@@ -237,4 +240,5 @@ Used Github Copilot (GPT-4.1) for very small inline code completions to improve 
 - fixing annoying detekt issues.
 
 We are aware of the potential dangers of using these tools and take full responsibility for any code, documents and other content produced during the group phase.
+
 
